@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlineServiceBroadcast</string>
+    <string name="fragment">Fragment</string>
+</resources>
